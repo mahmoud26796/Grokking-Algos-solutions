@@ -1,5 +1,6 @@
 # quick sort code 
-
+# we can use list comprehension in python 
+# but i wanted to make it very obvious
 def quick_sort(L):
     if len(L) < 2:
         return L
